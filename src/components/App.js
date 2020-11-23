@@ -74,7 +74,7 @@ const App = () => {
         }}
       ></div>
     ) : (
-      <button onClick={start} className="reset">
+      <button onClick={start} className="start">
         Start
       </button>
     );

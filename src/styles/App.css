@@ -13,7 +13,7 @@ body html .root {
 .ballProvider{
 	font-family: "Fredoka One", cursive;
   
-	  background-color: #202124;
+	  background-color: #e5e7ec;
   color: white;
   height: 30px;
   font-size: 15px;
@@ -25,6 +25,19 @@ body html .root {
 
 }
 .reset{
+	font-family: "Fredoka One", cursive;
+  
+	  background-color: #202124;
+  color: white;
+  height: 30px;
+  font-size: 15px;
+  border-radius:8px;
+  border: none;
+  width: 100px;
+  
+
+}
+.start{
 	font-family: "Fredoka One", cursive;
   
 	  background-color: #202124;
